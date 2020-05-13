@@ -9,13 +9,13 @@
 // console.log(me.name, me.age);
 
  // 2 Use the increment operator to increase the value of your age once.
-let me = {
-    name: "Alex",
-    age: 21
-} ;
-console.log(me.age);
-me.age++;
-console.log(me.age);
+// let me = {
+//     name: "Alex",
+//     age: 21
+// } ;
+// console.log(me.age);
+// me.age++;
+// console.log(me.age);
 
  // 3 Add another property called hobbies and set the value to be an array of strings that represent some of your hobbies, make sure the array has at least 3 values.
 //  let me = {
